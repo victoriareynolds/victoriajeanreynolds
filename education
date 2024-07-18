@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Victoria Jean Reynolds</title>
+</head>
+ 
+<body>
+<nav role="navigation" aria-label="main menu">
+<ul>
+	<li> <a href="index.html">Home</a></li>
+	<li> <a href="education.html">Education History</a></li>
+	<li> <a href="resume.html">Resume</a> </li>
+	<li> <a href="poems.html">Poems</a> </li>
+</ul>
+</nav>
+
+
+<header meta charset="UTF-8">
+	<h1> Victoria Jean Reynolds </h1>
+</header>
+
+<h2>Education</h2>
+
+<article>
+
+<p>
+Victoria graduated in the top percent of her high school class at Springfield Township High School. She immediately enrolled in Gettysburg College and attended for four years, graduating in 2015. Topics of study included English Literature, with a focus on Creative Writing, as well as a minor in Italian language and culture.</p>
+<p> She studied abroad in Ferrara, Italy in the fall of 2013 and immersed herself in the small town in the Emilia Romagna region. Topics of study while abroad included Italian cinema, food science and culinary processes, including the Slow Food movement, and intensive language study. She traveled to both Venice and Rome on her own while in the program, and attended a group trip to Tuscany to study wine making. </p>
+<p> After graduation from Gettysburg College, Victoria moved west to pursue outdoor education in Aspen, Colorado. She worked as a ski instructor at Snowmass Mountain, which is owned and operated by the Aspen Skiing Company. While employed by Aspen Skiing Company, she was a member of the Professional Ski Instructors of America and pursued a variety of certifications in ski instructing, including Children's Specialist Certifications 1 & 2, Freestyle 1, and her Level 1 and 2 Certifications. Despite leaving her position at Aspen Skiing Company, Victoria remains a member of PSIA (Professional Ski Instructors of America) and continues to remain up-to-date with her CEUs (Continuing Education Units).</p>
+<p> After taking a seven-year hiatus to learn how to teach skiing, she enrolled in a graduate program at George Mason University. Browse below to see classes taken at both the graduate and undergraduate levels.</p>
+</article>
+
+<figure>
+	<img src="https://mason.gmu.edu/~vreynol/practicesite1/victoriajeanediting.jpg" 
+	alt="Victoria sitting at her desk with her pen in her right hand, working on a poem"
+	width="800" height "533">
+	<cite><small> &copy; 2015 <a href="http://www.lisaweatherbee.com/">Lisa Weatherbee<a/></small></cite>
+	<figcaption>Victoria sits at her desk in Pennsylvania, with a pen in her right hand while working on a poem. </figcaption>	
+</figure>
+
+<section>
+<h3>M.F.A. Poetry, George Mason University, date of expected conferral in May of 2025</h3>
+
+<p>Victoria has completed two years of her three year program at George Mason University. The schedules below for both Fall 2024 and Spring 2025 have not yet been completed, and Spring 2025 is only planned at the moment, as registration has not yet opened for that semester at this time.</p>
+
+<h4>Fall 2022</h4>
+<ul>
+<li>ENGH 564 - Forms of Poetry</li>
+<li>ENGH 591 - Advanced Introduction to Folklore & Folklife</li>
+<li>ENGH 606 - Publishing Practicum: Poetry Daily</li>
+<li>ENGH 699 - Visiting Writers, Poetry</li>
+</ul>
+
+<h4>Spring 2023</h4>
+<ul>
+<li>ENGH 608 - Prose Poem</li>
+<li>ENGH 615 - Composition Instruction</li>
+<li>ENGH 617 - Poetry Writing Workshop</li>
+</ul>
+
+<h4>Fall 2023</h4>
+<ul>
+<li>ENGH 511 - Memoir</li>
+<li>ENGH 684 - Poetry Planet</li>
+<li>ENGH 750 - Advanced Workshop in Poetry Writing</li>
+<li>ENGH 699 - Visiting Writers, Poetry</li>
+</ul>
+
+<h4>Spring 2024</h4>
+<ul>
+<li>ENGH 605 - Stillhouse Press</li>
+<li>ENGH 610 - Proseminar: Teach Reading of Literature</li>
+<li>ENGH 685 - The Modernist Long Poem</li>
+</ul>
+
+<h4>Summer 2024</h4>
+<ul>
+<li>ENGH 507 - Web Authoring and Design</li>
+</ul>
+
+<h4>Fall 2024</h4>
+<ul>
+<li>ENGH 504 - Internship with Stillhouse Press</li>
+<li>ENGH 608 - Ekphrasis</li>
+<li>ENGH 750 - Advanced Workshop in Poetry Writing</li>
+<li>ENGH 799 - Thesis Credits</li>
+</ul>
+
+<h4>Spring 2025: <em>Planned</em></h4>
+<ul>
+<li>ENGH 503 - Theory and Practice of Editing</li>
+<li>ENGH 689 - Advanced Proposal Writing</li>
+<li>ENGH 799 - Thesis Credits</li>
+</ul>
+</section>
+
+
+<section>
+<h3>B.A.   	English Literature, Writing Concentration, Magna Cum Laude, Gettysburg College, 2015</h3>
+
+<p>Victoria graduated with honors from Gettysburg College in 2015, graduating  Magna Cum Laude. Below you can find a detailed list of the courses she took in each semester of her undergraduate degree while pursuing her BA in English Literature with a Writing Concentration and her minor in Italian language.</p>
+
+
+<h4>Fall 2011</h4>
+<ul>
+<li>BIO 111 - Intro to Ecology & Evolution, with Lab</li>
+<li>ENG 205 - Intro to Creative Writing</li>
+<li>FYS 125 - "Commedia!"</li>
+<li>ITAL 101 - Elementary Italian</li>
+</ul>
+
+<h4>Spring 2012</h4>
+<ul>
+<li>ANTH 103 - Intro to Cultural Anthro</li>
+<li>BIO 112 - Form and Function in Living Organisms, with Lab</li>
+<li>ENG 232 - Romanticism to Modernism</li>
+<li>ITAL 102 - Elementary Italian</li>
+</ul>
+
+<h4>Fall 2012</h4>
+<ul>
+<li>ENG 237 - American Realism & Naturalism</li>
+<li>ENG 254 - American Poetry</li>
+<li>IDS 103 - Lit Found of Western Culture</li>
+<li>ITAL 201 - Intermediate Italian</li>
+</ul>
+
+<h4>Spring 2013</h4>
+<ul>
+<li>ENG 299 - Critical Methods</li>
+<li>ENG 310 - Topic Med & Renaissance Lit: Love in the Renaissance</li>
+<li>ENG 334 - 19th Century English Women Writers</li>
+<li>ITAL 201 - Intermediate Italian</li>
+</ul>
+
+<h4>Fall 2013</h4>
+<ul>
+<li>FILM 3001 - Italian Cinema</li>
+<li>ITAL 2502 - Intermediate Italian II</li>
+<li>ITAL 3002 - Food Science: Made in Italy</li>
+<li>ITAL 3004 - Culture, Translation, Language</li>
+<li>ITAL 4501 - Intensive Italian Language</li>
+</ul>
+
+<h4>Spring 2014</h4>
+<ul>
+<li>ENG 302 - Free Verse & Form in Poetry</li>
+<li>ENG 316 - Growth of Romance</li>
+<li>ENG 330 - The Dark Side of Italy</li>
+<li>WGS 120 - Intro to Women, Gender, & Sexuality</li>
+</ul>
+
+<h4>Fall 2014</h4>
+<ul>
+<li>ENG 301 - Writing Short Fiction</li>
+<li>ENG 405 - Seminar in Writing</li>
+<li>ENG 464 - Honors Thesis</li>
+<li>ES 103 - The Chesapeake Bay Ecosystem
+<li>ITAL 307 - At the Opera: Italian Language, Culture</li>
+</ul>
+
+<h4>Spring 2015</h4>
+<ul>
+<li>ENG 304 - Writing the Personal Essay</li>
+<li>ENG 333 - Victorian Aesthetics</li>
+<li>ENG 450 - Individual Study: Fiction Writing</li>
+<li>ITAL 350 - Italy Since Fascism</li>
+</ul>
+</p>
+</section>
+
+</body>
+
+<footer>
+<blockquote>
+I still dig in the garden, <br>
+hoping to find a root, <br>
+a rhizome, one bulb left of you. <br>
+</blockquote>
+
+<p><cite>-Victoria Reynolds</cite>, from the poem <i>Lamprocapnos spectabilis<i> </p>
+<p>
+<small> &copy; 2024 Victoria Reynolds </small>
+</p>
+</footer>
+
+</html>
